@@ -1,0 +1,132 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/Administrator/Downloads/combine/Semi-web": "__default__profile__",
+            "file:///d%3A/source-code": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/tmp": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/MBTI/MBTI": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/MBTI": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/quan%20tr%E1%BB%8Dng": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/simple_browser_app-source": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/source-code/th%E1%BB%AD%20nghi%E1%BB%87m%20code/test%20code": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/python-project": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Documents/GitHub/python_dev/source-code": "__default__profile__",
+            "file:///d%3A/DriverBackup": "__default__profile__",
+            "file:///d%3A/terrain": "__default__profile__",
+            "file:///d%3A/godot_terrain_generation-main/godot_terrain_generation-main": "__default__profile__",
+            "file:///d%3A/u": "__default__profile__",
+            "file:///d%3A/Inifinte-Terrain-Generation-main/Inifinte-Terrain-Generation-main": "__default__profile__",
+            "file:///d%3A/godot-project": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/godot-project": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Documents/GDRE_tools-v0.6.2-windows/ext": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/RG3L-2.3/RG3L-2.3": "__default__profile__",
+            "file:///d%3A/Cogito": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Godot_Universal-Controller-tutorial-episode-5-overview-and-cleanup/Godot_Universal-Controller-tutorial-episode-5-overview-and-cleanup": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Godot_4_Third_Person_Controller": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Documents/GDRE_tools-v0.6.2-windows/EXT": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/test": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/godot4-third-person-controller-0.1.2/godot4-third-person-controller-0.1.2": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/godot-simple-sky-project": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/godot-4-stylized-sky-main/godot-4-stylized-sky-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/godot-Hochablass/godot-Hochablass": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/assets/godot-nishita-sky-with-volumetric-clouds-1.1.0": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/InfiniteOcean/Infinite%20Ocean": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Instant-Massive-Infinite-Terrain-Clipmap-Collisions-COMPLETE-main/Instant-Massive-Infinite-Terrain-Clipmap-Collisions-COMPLETE-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/TerrainGenerator3D-main/TerrainGenerator3D-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Inifinte-Terrain-Generation-main/Inifinte-Terrain-Generation-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Godot-4-Infinite-Procedural-Terrain-Main/Godot-4-Infinite-Procedural-Terrain-Main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Godot-Smooth-Voxels-main/Godot-Smooth-Voxels-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/important%20file%28cannot%20remove%29/godot4-third-person-controller-0.1.2/godot4-third-person-controller-0.1.2": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Documents/tmp_sky_shader": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/WaterShader/WaterShader": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/Godot-4-Infinite-Procedural-Terrain_admited/Godot-4-Infinite-Procedural-Terrain-Main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/godot-4-stylized-sky-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/godot-volumetric-cloud-demo-v2-main/godot-volumetric-cloud-demo-v2-main": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Documents/New%20Game%20Project": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/python": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/NekoUI%20v2.0%20%5B%2016.4%20%5D%20%5B%201.20.80%2B%20%5D": "__default__profile__",
+            "file:///d%3A/game_dream": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/source-code": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/python/bt_type_dic": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/python/solve_work": "__default__profile__",
+            "file:///c%3A/Users/Administrator/AppData/Local/nvim-data/lazy/onedark.nvim": "__default__profile__",
+            "file:///c%3A/Users/Administrator": "__default__profile__",
+            "file:///d%3A/Utilities/coding": "__default__profile__",
+            "file:///d%3A/Utilities/coding/source-code/th%E1%BB%AD%20nghi%E1%BB%87m%20code": "__default__profile__",
+            "file:///d%3A/Utilities/coding/source-code": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads": "__default__profile__",
+            "file:///c%3A/Users/Administrator/AppData/Local/nvim-c": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/nvim-config/nvim-lazy": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Documents/python_app": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Downloads/nvim-config": "__default__profile__",
+            "file:///d%3A/Utilities/coding/python/solve_work": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/fork_lazyvim/LazyVim": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/theme_tmp/base46": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/LazyVim": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/astral.nvim": "__default__profile__",
+            "file:///c%3A/Users/Administrator/AppData/Local/nvim-current": "__default__profile__",
+            "file:///d%3A/theme%20dev%20for%20nvim/base46.nvim": "__default__profile__",
+            "file:///c%3A/Users/Administrator/AppData/Local/nvim": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/save_theme.nvim/astral.nvim": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/New%20Game%20Project": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/game_assets_water": "__default__profile__",
+            "file:///c%3A/Users/Administrator/Desktop/decomplied": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1730273403360": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "{2ABAA724-4077-4AB1-869E-F526D7994B30}",
+    "telemetry.machineId": "729efdcbce6a41ffd98369a01cdbb014fc60f04733b88843ab568c3900265aeb",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1730273403360"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#282c34",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#282c34",
+            "editorBackground": "#282c34",
+            "titleBarBackground": "#282c34",
+            "activityBarBackground": "#282c34",
+            "sideBarBackground": "#282c34",
+            "statusBarBackground": "#282c34",
+            "statusBarNoFolderBackground": "#282c34"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 424,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Backups\\1730273403360",
+            "uiState": {
+                "mode": 0,
+                "x": 276,
+                "y": 33,
+                "width": 683,
+                "height": 738
+            }
+        },
+        "openedWindows": []
+    }
+}
